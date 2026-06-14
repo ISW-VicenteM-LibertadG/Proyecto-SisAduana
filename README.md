@@ -48,6 +48,8 @@ README.md
 - **coevaluacion/**: Incluye el informe de coevaluación realizado al grupo asignado.
 - **README.md**: Documento con la descripción general del proyecto, integrantes y estructura de los entregables.
 
+Junto con el acceso a este repositorio GitHub, la entrega adjuntará el archivo con el informe completo y el enlace al prototipo. 
+
 ---
 
 ## Funcionalidades principales
