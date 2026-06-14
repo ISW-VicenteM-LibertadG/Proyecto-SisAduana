@@ -2,7 +2,7 @@
 
 ## Acceso al sistema
 
-1. Abrir el enlace del prototipo en Figma.
+1. Abrir el enlace del prototipo en Figma. Es el siguiente: https://www.figma.com/make/2Ns8xXlCJj1wTdXy8UZHsT/Prototipo-web-SisAduana?t=7ldHXNr1bBihAjNQ-1
 2. Seleccionar **Present (▶)** para iniciar la navegación interactiva.
 3. En la pantalla de inicio de sesión ingresar cualquiera de los perfiles disponibles para acceder a sus respectivas funciones.
 
